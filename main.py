@@ -5,11 +5,11 @@ from Funciones.funcion_main import developer_info, developer_of_year, user_for_g
 
 app = FastAPI()
 
-with open(r'C:\Users\User\OneDrive\Documents\Trabajo\Henry\Proyecto Ind. 1\Modelos\Relaciones_muestra.pkl', 'rb') as file:
+with open('Modelos/Relaciones_muestra.pkl', 'rb') as file:
     model = pickle.load(file)
 
 try:
-    modelo = pd.read_parquet(r'C:\Users\User\OneDrive\Documents\Trabajo\Henry\Proyecto Ind. 1\Datos varios\relacionamiento_muestra.parquet', engine='fastparquet')
+    modelo = pd.read_parquet('Datos varios/relacionamiento_muestra.parquet', engine='fastparquet')
 except Exception as e:
     print(f"Error reading parquet file with fastparquet: {e}")
 

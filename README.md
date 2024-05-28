@@ -21,7 +21,7 @@ En este proyecto, se desarrolló un sistema de recomendación de videojuegos par
    - **Implementación de Modelos de Recomendación:** Se desarrollaron modelos de recomendación basados en la similitud entre ítems y usuarios. Estos modelos ayudan a sugerir juegos similares, mejorando la experiencia de descubrimiento para los usuarios.
      > `/recommend_games/{user_id}`: Recomendación personalizada de 5 juegos para un usuario basada en sus opiniones previas, o recomendación aleatoria si no hay datos disponibles.
    - **Creación de la API con FastAPI:** Se diseñó y desarrolló una API con FastAPI que permite realizar múltiples consultas a los datos, proporcionando información detallada sobre desarrolladores, usuarios, géneros y juegos.
-   - **Despliegue:** La API está desplegada en el servicio Render, lo que permite su acceso y uso desde la web. Las instrucciones para el despliegue se encuentran en el repositorio correspondiente.
+   - **Despliegue:** La API está desplegada en el servicio Render, lo que permite su acceso y uso desde la web.
 #  Autor y Links.
 **Lucas Ariel Leguizamon Alegre**
 - Link del [Deploy](https://proyecto-individual-1-82o6.onrender.com/docs)

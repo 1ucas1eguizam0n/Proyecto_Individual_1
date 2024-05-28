@@ -25,6 +25,6 @@ En este proyecto, se desarrolló un sistema de recomendación de videojuegos par
 #  Autor y Links.
 **Lucas Ariel Leguizamon Alegre**
 - Link del [Deploy](https://proyecto-individual-1-82o6.onrender.com/docs)
-- Link del [Video]()
+- Link del [Video](https://youtu.be/ObBL1oYfBh8)
 - [GitHub](https://github.com/1ucas1eguizam0n)
 - [LinkedIn](https://www.linkedin.com/in/lucas-leguizam%C3%B3n-4a0437283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
